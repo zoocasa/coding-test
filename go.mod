@@ -1,3 +1,3 @@
 module github.com/zoocasa/coding-test
 
-go 1.17
+go 1.18
